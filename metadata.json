@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris Focus & Ambient Workspace",
+  "description": "A premium calm focus room and productivity dashboard with Pomodoro timer, ambient soundscapes, task management, and deep work statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
